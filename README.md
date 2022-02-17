@@ -5,6 +5,7 @@ Hey there, my name is Luka! Currently, I am a college student at Goucher College
 - Machine Learning using Tensorflow.
   - Compiling code on a remote SBC.
   - Initializing environments using Docker containers.
+  - Object detection of US electrical outlets.
 - Virtual Robot Developement using ROS2 Foxy.
   - Currently on hold due to school prioritization.
 - Git Workflow.
