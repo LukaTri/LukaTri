@@ -1,5 +1,5 @@
 # Hello, GitHub!
-Hey there, my name is Luka! Currently, I am a college student at Goucher College majoring in CS and DS. My main area of interest is AI, Machine Learning and Robotics (software side).
+Hey there, my name is Luka! Currently, I am a college student at Goucher College majoring in computer science and data science. My main area of interest is AI, Machine Learning and Robotics (software side).
 
 ## What I am currently learning and working on:
 - Machine Learning using Tensorflow.
