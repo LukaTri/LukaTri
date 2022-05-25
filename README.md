@@ -8,6 +8,8 @@ Hey there, my name is Luka! Currently, I am a college student at Goucher College
   - Object detection of US electrical outlets.
 - Virtual Robot Developement using ROS2 Foxy.
   - Currently on hold due to school prioritization.
+- Unity Game Develeopement
+  - Working with partner to create a 2D Platform game for GameJam 2022.
 - Git Workflow.
   - Creating readable documentation.
 
