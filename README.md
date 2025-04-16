@@ -21,7 +21,6 @@ Hey there, my name is Luka! Currently, I am a college student at Goucher College
 
 ## Contact:
 If you would like to collaborate on a project, feel free to message me! Always happy to start a relevant project with a partner :)
-- Email: lukadtrikha@gmail.com
   - Please write a meaningful subject-line so I don't miss it!
 <!---
 LukaTri/LukaTri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
